@@ -58,7 +58,7 @@ Loss Graphs: Show convergence with minimal overfitting
 📚 References
 The methodology is built on prior work by researchers such as Shu et al. (2017–2020), Ruchansky et al. (2017), and Vosoughi et al. (2018). For a complete list of references, see the References section in the paper.
 
-✍️ Authors
+✍️ Authors: 
 Md. Mubashera
 
 Shaik Karishma
